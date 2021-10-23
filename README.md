@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This analysis was conducted to examine trip data from Citibike to determine if moving Citibike to Des Moines would be a logical business move. We examine the breakdown of bike ride users as well as summary statistics of various factors. A link to the dashboard can be found [here](https://public.tableau.com/views/CitibikeAnalysis_16349563012730/CitibikeAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+This analysis was conducted to examine trip data from Citibike to determine if moving Citibike to Des Moines would be a logical business move. We examine the breakdown of bike ride users as well as summary statistics of various factors. A link to the dashboard can be found [here.](https://public.tableau.com/views/CitibikeAnalysis_16349563012730/CitibikeAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## Results
 
