@@ -7,6 +7,24 @@ This analysis was conducted to examine trip data from Citibike to determine if m
 ## Results
 
 ![graph1.PNG](Resources/graph1.PNG)
+This is a map of where bike rides are most often started in NYC. The bigger and darker bubbles indicate a higher number of rides started.
+
+![graph2.PNG](Resources/graph2.PNG)
+
+
+![graph3.PNG](Resources/graph3.PNG)
+
+
+![graph4.PNG](Resources/graph4.PNG)
+
+
+![graph5.PNG](Resources/graph5.PNG)
+
+
+![graph6.PNG](Resources/graph6.PNG)
+
+
+![graph7.PNG](Resources/graph7.PNG)
 
 ## Summary
 
