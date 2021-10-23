@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This analysis was conducted to examine trip data from Citibike to determine if moving Citibike to Des Moines would be a logical business move. We examine the breakdown of bike ride users as well as summary statistics of various factors.
+This analysis was conducted to examine trip data from Citibike to determine if moving Citibike to Des Moines would be a logical business move. We examine the breakdown of bike ride users as well as summary statistics of various factors. A link to the dashboard can be found [here](https://public.tableau.com/views/CitibikeAnalysis_16349563012730/CitibikeAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## Results
 
@@ -43,3 +43,4 @@ This graph shows a breakdown of bike use by day, filtered by user type and gende
 
 ## Summary
 
+Overall, it appears Citibike is a very successful business in New York City. Thousands of bike rides are taken every hour. One recommended visualization to examine would be a pie chart that breaks down how many users are Customers and how many are Subscribers. Another recommended visualization would be a breakdown of the users by Age.
